@@ -1,0 +1,37 @@
+_repo: Nouveaux-Contes-des-Collines_63341
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
+description: 'Translations of selected stories from: Plain tales from the hills.'
+gutenberg_issued: '2020-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63341'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English -- Translations into French'
+- !lcsh 'British -- India -- Fiction'
+- !lcc 'PR'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Fiction'
+- GITenberg
+tableOfContents: Lispeth -- La prise de Lungtungpen -- Le handicap de la chaîne brisée
+  -- Hors du cercle -- Dans l'erreur -- Une escroquerie financière -- L'amendement
+  Tods -- La fille du régiment -- Dans l'orgueil de sa jeunesse -- Le Cochon -- La
+  déroute des Hussards blancs -- Le cas de divorce Bronckhorst -- Venus Anno Domini
+  -- Le Bisara de Pooree -- L'ami d'un ami -- La Porte des Cent Chagrins -- L'accès
+  de folie du soldat Ortheris -- L'histoire de Muhammad-Din -- Sur la foi d'une ressemblance
+  -- Wressley, des Affaires Étrangères -- De vive voix -- A classer pour s'y reporter.
+title: Nouveaux Contes des Collines
+url: http://www.gutenberg.org/ebooks/63341
